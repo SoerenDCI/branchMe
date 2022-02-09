@@ -6,7 +6,8 @@
 3. Schreib in die README, z.B. den Text dieser Aufgabe
 4. Erstelle eine index.html mit folgendem Inhalt:
 
-'<!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
  <head>
   <meta charset="UTF-8">
@@ -23,7 +24,8 @@
    <p>Ich bin ein Footer</p>
   </footer>
  </body>
-</html>'
+</html>
+```
 
 --> Vergiss nicht zu deine Änderungen zu speichern, wenn du unsicher bist checke immer mit git status ob alles aktuell ist
 --> Push deine Änderungen zu github
