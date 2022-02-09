@@ -55,5 +55,5 @@
 
 ## Teil 3 - Bonus
 
-1. Geh zu Github(! nicht lokal!!) und erstelle für die neuen Branches jeweils einen Pull Request um diesen danach in die Main einzufügen (merge), löse die entstandenen Konflikte auf
+1. Geh zu Github **(! nicht lokal!!)** und erstelle für die neuen Branches jeweils einen Pull Request um diesen danach in die Main einzufügen (merge), löse die entstandenen Konflikte auf
 2. Wenn die Branches in in die main eingefügt wurden, zieh dir die aktuelle Version mit (git pull) zurück auf deinen Rechner
