@@ -27,7 +27,7 @@
 </html>
 ```
 
---> Vergiss nicht zu deine Änderungen zu speichern, wenn du unsicher bist checke immer mit git status ob alles aktuell ist
+--> Vergiss nicht zu deine Änderungen zu speichern, wenn du unsicher bist checke immer mit "git status" ob alles aktuell ist
 
 --> Push deine Änderungen zu github
 
