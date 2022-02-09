@@ -36,16 +36,20 @@
 1. Erstelle 2 neue Branches (noch nicht dort reinwechseln!!): body & index
 2. Checke mit git branch, dass du im main branch bist und ob die beiden neuen Branches existieren
 3. Wechsel in den Branch body und ändere in der index :
+  ```html
   <main>
    <p>Ich wurde von BODY bearbeitet</p>
   </main>
+  ```
 4.  Adden, committen
 5. Push den Branch zu Github und checke ob das geklappt hat
 6. Wechsel in den Branch index
 7. Öffne wieder die index.html und füge dort ein:
+  ```html
   <main>
    <p>Ich wurde von INDEX bearbeitet und hey ich hab euch was zu sagen</p>
   </main>
+  ```
 8. Adden und commiten
 9. Auch den Branch pushst du zu github
 
