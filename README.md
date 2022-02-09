@@ -5,6 +5,7 @@
 2. Clone das Repository auf deinen Rechner
 3. Schreib in die README, z.B. den Text dieser Aufgabe
 4. Erstelle eine index.html mit folgendem Inhalt:
+
 '<!DOCTYPE html>
 <html>
  <head>
@@ -23,6 +24,7 @@
   </footer>
  </body>
 </html>'
+
 --> Vergiss nicht zu deine Änderungen zu speichern, wenn du unsicher bist checke immer mit git status ob alles aktuell ist
 --> Push deine Änderungen zu github
 
